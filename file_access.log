@@ -1,0 +1,14 @@
+Client 2 Write file file1.txt at timestamp 1
+Client 2 Read file file1.txt at timestamp 2
+Client 1 Write file file1.txt at timestamp 3
+Client 1 Read file file1.txt at timestamp 4
+Client 1 Write file file1.txt at timestamp 1
+Client 1 Read file file1.txt at timestamp 2
+Client 5 Write file file1.txt at timestamp 3
+Client 3 Write file file1.txt at timestamp 4
+Client 4 Write file file1.txt at timestamp 5
+Client 2 Write file file1.txt at timestamp 6
+Client 5 Read file file1.txt at timestamp 7
+Client 3 Read file file1.txt at timestamp 8
+Client 4 Read file file1.txt at timestamp 9
+Client 2 Read file file1.txt at timestamp 10
